@@ -1,3 +1,4 @@
 # marglodialog - activated devices
 # Format: HWID  # note (name / date)
 # Remove a line to revoke that device.
+  34FF-9692-5699-2ECC
