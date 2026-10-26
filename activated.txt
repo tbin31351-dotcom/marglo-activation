@@ -1,0 +1,3 @@
+# marglodialog - activated devices
+# Format: HWID  # note (name / date)
+# Remove a line to revoke that device.
